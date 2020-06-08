@@ -13,7 +13,7 @@ The most important aspect of this application is the graphic design used in orde
 
 2. Open the index.html file with Google Chrome to see the project.
 
-3. Click the "ADD TO CARD" button, to see a special effect used to attrack the attention of the customers.
+3. Click the "ADD TO BASKET" button, to see a special effect used to attrack the attention of the customers.
 
 
 # Author: Andrés R. Bucheli.
